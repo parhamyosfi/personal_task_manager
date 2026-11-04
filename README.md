@@ -14,7 +14,7 @@ A simple task manager built with python
 - python
 - python-dotenv
 
-## Project strutur
+## Project structur
 ```txt
 │   .env
 │   .gitignore
