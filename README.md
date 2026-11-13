@@ -29,7 +29,7 @@ high
 │   README.md
 │   requirments.txt
 │   tasks.py
-```txt
+```
 ## Installation
 
 ```bash
